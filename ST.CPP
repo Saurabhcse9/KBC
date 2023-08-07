@@ -335,9 +335,6 @@ for(i=370; i<=375; ++i)
     outtextxy(1,40,"I was a student of j.n.v(JAWAHAR NAVODYA VIDYALYA)");
     outtextxy(1,60,"I  have the PCM with computerr scciene and english");
     outtextxy(1,80,"my school is in meerut at sardhna (UP-INDIA)");
-    outtextxy(1,100,"I hope you enjoyed it without any trouble by reading strating ");
-    outtextxy(1,120,"insturctions and soon I will solve your all dificulties which ");
-    outtextxy(1,140,"you have faced in this version");
     outtextxy(1,200,"************THANK YUO VERY MUCH!**********************************");
     outtextxy(200,400,"Email-ID:-saurabh.ashogapur@gmail.com");
     outtextxy(200,420,"Mobile no.:-");
