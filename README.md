@@ -1,2 +1,2 @@
-# KBC
-This is an almost complete GUI quiz project. The language used is C++. I wrote this when I was in grade 10 during summer vacations. Having very little knowledge of C++, I used the help section and examples provided with Turbo C++ to learn how all the C++ things work... It's a very long story. You can use it, modify it however you want.
+KBC (Kaun Banega Crorepati)
+This is a nearly complete GUI quiz project written in C++. I created it during my summer vacation in grade 10. With limited knowledge of C++, I relied heavily on the help section and examples provided with Turbo C++ to understand how everything worked. It's quite a story! Feel free to use and modify this project as you wish.
