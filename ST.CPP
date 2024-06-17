@@ -14,12 +14,13 @@ char ch,ch1[50],ch2[50]; int str();  int n();
 initgraph(&x,&y,"C:\\turboc3\\bgi");
 do
 {
-cout<<"this is a programr a quiz contast"<<endl;
-cout<<"and here scoring will also held by computer"<<endl;
-cout<<"there will be two participant ";
-cout<<endl<<" for yes and no command press y and n"<<endl<<"press ENTER after each command ";
-cout<<endl<<"so lets enjoy your quiz contast"<<endl<<endl<<endl<<endl;
-cout<<"__________>>>>>>>>>>>>>START PRESS 1";
+cout << "This is a quiz contest." << endl;
+cout << "Scoring will also be handled by the computer." << endl;
+cout << "There will be two participants." << endl;
+cout << "For yes and no commands, press 'y' and 'n' respectively." << endl;
+cout << "Press ENTER after each command." << endl;
+cout << "So, let's enjoy your quiz contest!" << endl << endl << endl;
+cout << "__________>>>>>>>>>>>>> TO START, PRESS 1";
 cin>>i;
 if(i==1)
 { setbkcolor(WHITE);
@@ -308,7 +309,7 @@ for(i=370; i<=375; ++i)
     str();
     setcolor(1);
     settextstyle(8,0,1);
-    outtextxy(140,160,"HAMARE RASTRAPATI KA NAAM HAI");
+    outtextxy(140,160,"HAMARE RASTRAPATI KA NAAM HAI ?");
     outtextxy(115,295,"(a) PRATIBHA PATIL");
     outtextxy(340,295,"(b) AISHWARYA RAI");
     outtextxy(115,345,"(c) LATA");
