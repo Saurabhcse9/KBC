@@ -331,14 +331,12 @@ for(i=370; i<=375; ++i)
     cleardevice();
     setcolor(1);
     settextstyle(8,0,1);
-    outtextxy(1,1,"thanks a lot for using this program ");
-    outtextxy(1,20," my self saurabh raj  constructor of this program");
-    outtextxy(1,40,"I was a student of j.n.v(JAWAHAR NAVODYA VIDYALYA)");
-    outtextxy(1,60,"I  have the PCM with computerr scciene and english");
-    outtextxy(1,80,"my school is in meerut at sardhna (UP-INDIA)");
-    outtextxy(1,200,"************THANK YUO VERY MUCH!**********************************");
-    outtextxy(200,400,"Email-ID:-saurabh.ashogapur@gmail.com");
-    outtextxy(200,420,"Mobile no.:-");
+    outtextxy(1, 1, "Thanks a lot for using this program.");
+    outtextxy(1, 20, "My name is Saurabh Raj, the creator of this program.");
+    outtextxy(1, 40, "I was a student of J.N.V. (Jawahar Navodaya Vidyalaya).");
+    outtextxy(1, 60, "I studied PCM with Computer Science and English.");
+    outtextxy(1, 80, "My school is in Meerut at Sardhana (UP, India).");
+    outtextxy(1, 200, "************ THANK YOU VERY MUCH! ************");
     sleep(10);
     exit(0);
 
